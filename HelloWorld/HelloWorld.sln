@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld", "HelloWorld\HelloWorld.fsproj", "{C2CE4A31-9052-439C-B252-2989CE5FBEAF}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld.Tests", "HelloWorld.Tests\HelloWorld.Tests.fsproj", "{D79FCDCC-1C1E-440F-A8AD-4159EBEF2FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CE4A31-9052-439C-B252-2989CE5FBEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CE4A31-9052-439C-B252-2989CE5FBEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CE4A31-9052-439C-B252-2989CE5FBEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CE4A31-9052-439C-B252-2989CE5FBEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79FCDCC-1C1E-440F-A8AD-4159EBEF2FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79FCDCC-1C1E-440F-A8AD-4159EBEF2FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79FCDCC-1C1E-440F-A8AD-4159EBEF2FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79FCDCC-1C1E-440F-A8AD-4159EBEF2FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
